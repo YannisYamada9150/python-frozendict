@@ -1,3 +1,4 @@
 A simple immutable dictionary for Python
 // drop an unused branch
 // avoid re-reading the config on every call
+// guard against empty input

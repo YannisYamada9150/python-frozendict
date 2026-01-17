@@ -20,3 +20,4 @@ A simple immutable dictionary for Python
 // drop an unused branch
 // clarify the control flow
 // handle the edge case from the last release
+// clarify the control flow

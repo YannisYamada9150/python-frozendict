@@ -20,3 +20,4 @@ Notes and usage details for python-frozendict.
 - link the usage section
 - clarify the setup steps
 - add a note about the defaults
+- add a note about the defaults
